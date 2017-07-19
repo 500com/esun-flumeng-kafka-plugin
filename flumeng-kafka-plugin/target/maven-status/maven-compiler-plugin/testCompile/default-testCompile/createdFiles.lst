@@ -1,0 +1,5 @@
+esun\org\apache\flume\plugins\test\ConsumerChecker$ConsumerWorker.class
+esun\org\apache\flume\plugins\test\ConsumerChecker.class
+esun\org\apache\flume\plugins\test\JunitConstans.class
+esun\org\apache\flume\plugins\test\KafkaSourceTest.class
+esun\org\apache\flume\plugins\test\KafkaSinkTest.class

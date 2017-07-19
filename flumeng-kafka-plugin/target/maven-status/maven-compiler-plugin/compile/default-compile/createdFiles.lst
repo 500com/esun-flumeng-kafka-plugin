@@ -1,0 +1,6 @@
+esun\org\apache\flume\plugins\KafkaSource$ConsumerWorker.class
+esun\org\apache\flume\plugins\KafkaSource.class
+esun\org\apache\flume\plugins\KafkaFlumeConstans.class
+esun\org\apache\flume\plugins\KafkaSinkForClickstream.class
+esun\org\apache\flume\plugins\SinglePartition.class
+esun\org\apache\flume\plugins\KafkaSink.class
